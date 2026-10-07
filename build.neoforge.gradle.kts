@@ -1,5 +1,5 @@
 plugins {
-    id("net.neoforged.moddev") version "2.0.141"
+    id("net.neoforged.moddev") version "2.0.147"
     id("dev.kikugie.fletching-table") version "0.1.0-alpha.22"
 }
 
